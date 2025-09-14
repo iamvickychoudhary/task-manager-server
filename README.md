@@ -6,10 +6,10 @@ It provides REST APIs for authentication, board/task management, and real-time u
 ---
 
 ### 1 Clone the Repository
-2 cd task-manager-server
-3 npm install
-4 Create a .env file and copy content of .env.example
-4 npm run dev   
+### 2 cd task-manager-server
+### 3 npm install
+### 4 Create a .env file and copy content of .env.example
+### 4 npm run dev   
 
 
 
