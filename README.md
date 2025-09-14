@@ -9,7 +9,7 @@ It provides REST APIs for authentication, board/task management, and real-time u
 ### 2 cd task-manager-server
 ### 3 npm install
 ### 4 Copy the contents of .env.example into a new .env file and update with your local value
-### 4 npm run dev   
+### 5 npm run dev   
 
 
 
